@@ -4,7 +4,7 @@ package hu.ssh.progressbar;
 /**
  * Defines the main interfaces to work with a progressbar.
  *
- * @author KARASZI István (github@spam.raszi.hu)
+ * @author KARASZI Istvan (github@spam.raszi.hu)
  */
 public interface ProgressBar<T extends ProgressBar<?>> {
 	/**
