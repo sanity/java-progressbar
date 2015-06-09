@@ -45,7 +45,7 @@ import com.google.common.collect.ImmutableSet;
  * 		.withTotalSteps(25);
  * </pre>
  *
- * @author KARASZI István (github@spam.raszi.hu)
+ * @author KARASZI Istvan (github@spam.raszi.hu)
  */
 public final class ConsoleProgressBar extends AbstractProgressBar<ConsoleProgressBar> {
 	public static final char LINE_FEED = '\n';
